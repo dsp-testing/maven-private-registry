@@ -13,5 +13,5 @@
           <dependencies><dependency>
               <groupId>org.springframework</groupId>
               <artifactId>spring-aop</artifactId>
-              <version>4.0.0</version>
+              <version>6.2.5</version>
             </dependency>
